@@ -15,3 +15,7 @@ Temas relacionados con la aplicación:
 •	Uso de OpenWeather para obtener el clima
 •	Aplicación de consola con historial
 
+
+Documento con las vistas del proyecto funcionando:
+https://drive.google.com/file/d/1EmoOOYIvOqTnzjdQM71dguV697WgmpWG/view?usp=sharing
+
